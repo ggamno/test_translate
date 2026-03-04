@@ -1,0 +1,6 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+
+msgid "hello"
+msgstr "안녕하세요"
