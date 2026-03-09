@@ -1,0 +1,6 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+
+msgid "password"
+msgstr "비밀번호"
