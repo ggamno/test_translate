@@ -1,0 +1,6 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+
+msgid "sorry"
+msgstr "미안해요"
